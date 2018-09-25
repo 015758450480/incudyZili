@@ -1,0 +1,35 @@
+Selector {
+	Property: value;
+}
+
+
+
+body/*{
+	background-image: url("backgroundimage.jpg");
+	background-size: cover;*/
+}
+img{
+	float: left;
+}
+div{
+	color:red !important;
+}
+p{
+	text-decoration: underline;
+}
+
+.th{
+	border: 5px dashed green;
+}
+
+.tb{
+	border: 10px solid green;
+	color: blue;
+}
+#div1 :hover{
+	background: black;
+}
+
+*{
+	text-align: center;
+}
